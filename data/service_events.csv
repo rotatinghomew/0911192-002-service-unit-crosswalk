@@ -1,0 +1,10 @@
+case,quarter,building,service,minutes,state
+s1,2026-Q3,h1,social,21,done
+s2,2026-Q3,h1,social,42,done
+s3,2026-Q3,h2,social,30,done
+s4,2026-Q3,h2,social,41,done
+s5,2026-Q3,h3,social,23,done
+s6,2026-Q3,h4,social,12,done
+s7,2026-Q3,h4,social,81,interrupted
+s8,2026-Q3,h5,certificate,18,done
+s9,2026-Q3,h6,certificate,50,done

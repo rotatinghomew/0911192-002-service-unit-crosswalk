@@ -1,0 +1,8 @@
+shift,site,reaches,service,state,group
+w1,西门,A;B,social,announced,staff1
+w2,桥下,B;C,social,candidate,staff2
+w3,东门,C,social,candidate,staff2
+w4,中站,A;C,social,candidate,staff3
+w5,北楼,A,certificate,announced,staff4
+w6,东楼,C,certificate,candidate,staff5
+w7,桥下,A;B;C,certificate,candidate,staff6

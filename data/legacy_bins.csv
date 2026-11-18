@@ -1,0 +1,8 @@
+bucket,quarter,lane,service,lower,upper,count
+x1,2025-Q3,L1,social,0,15,15
+x2,2025-Q3,L1,social,15,45,22
+x3,2025-Q3,L1,social,45,,6
+x4,2025-Q3,L2,social,0,30,34
+x5,2025-Q3,L2,social,30,,12
+x6,2025-Q3,L3,certificate,10,30,7
+x7,2025-Q3,L4,certificate,30,,4

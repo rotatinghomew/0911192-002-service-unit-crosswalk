@@ -1,0 +1,63 @@
+{
+  "tables": {
+    "locations": [
+      "building",
+      "lane",
+      "district_from",
+      "district_to",
+      "effective"
+    ],
+    "legacy_bins": [
+      "bucket",
+      "quarter",
+      "lane",
+      "service",
+      "lower",
+      "upper",
+      "count"
+    ],
+    "located_counts": [
+      "record",
+      "bucket",
+      "building",
+      "count",
+      "received"
+    ],
+    "service_events": [
+      "case",
+      "quarter",
+      "building",
+      "service",
+      "minutes",
+      "state"
+    ],
+    "windows": [
+      "shift",
+      "site",
+      "reaches",
+      "service",
+      "state",
+      "group"
+    ]
+  },
+  "references": [
+    [
+      "located_counts",
+      "bucket",
+      "legacy_bins",
+      "bucket"
+    ],
+    [
+      "located_counts",
+      "building",
+      "locations",
+      "building"
+    ],
+    [
+      "service_events",
+      "building",
+      "locations",
+      "building"
+    ]
+  ]
+}

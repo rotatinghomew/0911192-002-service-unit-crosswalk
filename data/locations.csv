@@ -1,0 +1,7 @@
+building,lane,district_from,district_to,effective
+h1,L1,west,A,2026-01-01
+h2,L1,west,B,2026-01-01
+h3,L2,east,B,2026-01-01
+h4,L2,east,C,2026-01-01
+h5,L3,west,A,2026-01-01
+h6,L4,east,C,2026-01-01
